@@ -1,0 +1,12 @@
+.card {
+    display: block;
+    margin:  0 auto;
+}
+.cood {
+    text-align: center;
+    color: #f6a567;
+}
+.cool {
+    text-align: center;
+    color: #000000;
+}
